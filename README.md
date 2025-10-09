@@ -11,21 +11,22 @@
 ## 🚀 About Me
 
 <div align="center">
-  
-  ```json
-  {
-    "name": "iceyZhang",
-    "education": {
-      "undergraduate": "Jilin University - Software College",
-      "postgraduate": "The Chinese University of Hong Kong, Shenzhen - School of Data Science"
-    },
-    "status": "🎓 Graduating → 🎯 Pursuing Master's",
-    "interests": [
-      "Data Science",
-      "Machine Learning",
-      "Software Engineering",
-      "Open Source"
-    ]
-  }
+
+<pre>
+{
+  "name": "iceyZhang",
+  "education": {
+    "undergraduate": "Jilin University - Software College",
+    "postgraduate": "The Chinese University of Hong Kong, Shenzhen - School of Data Science"
+  },
+  "status": "🎓 Graduating → 🎯 Pursuing Master's",
+  "interests": [
+    "Data Science",
+    "Machine Learning",
+    "Software Engineering",
+    "Open Source"
+  ]
+}
+</pre>
 
 </div>
