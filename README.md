@@ -14,9 +14,9 @@
 
 ### 🛠️ My Code Language Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icey&layout=donut&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="icey's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icey&layout=compact&theme=radical&hide_border=true" alt="icey's Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icey1287&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="icey's Top Languages" />
 </p>
+
 
 ---
 
