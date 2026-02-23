@@ -26,15 +26,6 @@
   <!-- 核心统计卡片 -->
   <img src="https://mystats-coral.vercel.app/api?username=icey1287&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
        alt="icey1287's GitHub stats" width="48%" />
-  
-  <!-- 语言统计卡片 -->
-  <img src="https://mystats-coral.vercel.app/api/top-langs/?username=icey1287&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" 
-       alt="Top Languages" width="48%" />
-
-  <!-- 提交活动图（国内稳定端点） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icey1287&theme=tokyo-night&hide_border=true&area=true" 
-       alt="Commit Activity" width="97%" />
-</div>
 
 ---
 
