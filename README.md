@@ -15,12 +15,6 @@
 
 ---
 
-<p align="center">
-  <i>“Be delusional.”</i>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
   <!-- 核心统计卡片 -->
