@@ -18,7 +18,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <!-- 核心统计卡片 -->
-  <img src="https://mystats-coral.vercel.app/api?username=icey1287&show_icons=true&theme=buefy&hide_border=true&count_private=true&hide=issues,contribs,prs" 
+  <img src="https://mystats-coral.vercel.app/api?username=icey1287&show_icons=true&theme=buefy&hide_border=true&count_private=true&hide=issues,contribs" 
        alt="icey1287's GitHub stats" width="48%" />
 
 ---
