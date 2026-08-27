@@ -8,22 +8,55 @@
 
 ---
 
-### 👋 About Me
-- 🎓 From **Software College, Jilin University**  
-- 🚀 Soon pursuing studies at **CUHK-Shenzhen, School of Data Science**  
-- 💡 Passionate about **LLM, data science, and creative problem solving**
+### About Me
+- Postgraduate student at **CUHK-Shenzhen, School of Data Science (SDS)**
+- B.Eng. in Software Engineering from **Jilin University**
+- Passionate about **LLMs, Data Science, and Creative Problem Solving**
+- Feel free to connect and collaborate!
 
 ---
 
-### 📊 GitHub Stats
+### Experience & Internships
 <div align="center">
-  <!-- 核心统计卡片 -->
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="40" height="40" alt="Apple" /><br />
+        <sub><b>Apple</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/DiDi_Logo.svg" width="40" height="40" alt="DiDi" /><br />
+        <sub><b>DiDi (滴滴出行)</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" width="40" height="40" alt="FAW-VW" /><br />
+        <sub><b>FAW-Volkswagen (一汽-大众)</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://www.zybang.com/favicon.ico" width="40" height="40" alt="Zuoyebang" /><br />
+        <sub><b>Zuoyebang (作业帮)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Beyond Coding & Hobbies
+- **Traveling** — Exploring new cities, cultures, and landscapes
+- **Piano** — Self-learning, practicing step by step to play my favorite pieces
+- **Indie Games** — Big fan of story-rich games like *Undertale*, *To the Moon*, and *OMORI*
+
+---
+
+### GitHub Stats
+<div align="center">
   <img src="https://mystats-coral.vercel.app/api?username=icey1287&show_icons=true&theme=buefy&hide_border=true&count_private=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats" 
        alt="My GitHub stats" width="48%" />
+</div>
 
 ---
 
-
 <div align="center">
-  <sub> ❤️ </sub>
+  <sub>Made with ❤️ by icey</sub>
 </div>
