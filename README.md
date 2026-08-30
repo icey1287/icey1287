@@ -21,19 +21,19 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" style="max-width: 40px; max-height: 40px; height: auto;" alt="Apple" /><br />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="40" alt="Apple" /><br />
         <sub><b>Apple</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/DiDi_Logo.svg" style="max-width: 40px; max-height: 40px; height: auto;" alt="DiDi" /><br />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/DiDi_Logo.svg" height="30" alt="DiDi" /><br />
         <sub><b>DiDi (滴滴出行)</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" style="max-width: 40px; max-height: 40px; height: auto;" alt="FAW-VW" /><br />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" height="40" alt="FAW-VW" /><br />
         <sub><b>FAW-Volkswagen (一汽-大众)</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://www.zybang.com/favicon.ico" style="max-width: 40px; max-height: 40px; height: auto;" alt="Zuoyebang" /><br />
+        <img src="https://www.zybang.com/favicon.ico" height="40" alt="Zuoyebang" /><br />
         <sub><b>Zuoyebang (作业帮)</b></sub>
       </td>
     </tr>
